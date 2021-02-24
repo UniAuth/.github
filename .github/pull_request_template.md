@@ -1,5 +1,5 @@
-# Related Issue
-- issue goes here
+# Issue Related with PR
+- fixes #issueNumber
 
 # Proposed Changes
 - Change 1
