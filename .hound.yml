@@ -1,0 +1,20 @@
+scss:
+  enabled: false
+
+go:
+  enabled: true
+
+javascript:
+  enabled: false
+
+eslint:
+  enabled: true
+
+python:
+  enabled: true
+
+swift:
+  enabled: false
+
+tslint:
+  enabled: true
