@@ -9,6 +9,7 @@ javascript:
 
 eslint:
   enabled: true
+  config_file: eslint.json
 
 python:
   enabled: true
@@ -18,3 +19,4 @@ swift:
 
 tslint:
   enabled: true
+  config_file: tslint.json
