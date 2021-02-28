@@ -1,0 +1,22 @@
+scss:
+  enabled: false
+
+go:
+  enabled: true
+
+javascript:
+  enabled: true
+
+eslint:
+  enabled: true
+  config_file: eslint.json
+
+python:
+  enabled: true
+
+swift:
+  enabled: false
+
+tslint:
+  enabled: true
+  config_file: tslint.json
